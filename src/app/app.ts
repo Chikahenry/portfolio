@@ -588,6 +588,17 @@ export class AppComponent {
         'Reduced bug occurrence by 40% through comprehensive testing',
         'Orchestrated Azure deployments ensuring high availability'
       ]
+    },
+    {
+      title: 'Software Engineer',
+      company: 'NowNow Digital Services',
+      period: 'September 2020 - September 2021',
+      location: 'Lagos, Nigeria',
+      highlights: [
+        'Developed Revenue generation system for Nasarawa state using .NET 5',
+        'Built a Covid-19 tracking dashboard with Angular and Php',
+        'Manage Edo State Internal Revenue Service platform using .NET Core'
+      ]
     }
   ];
 
